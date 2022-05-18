@@ -8,7 +8,7 @@ export default function Home() {
         <meta name="description" content="a clone of facebook with next js" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      
     </div>
   )
 }
